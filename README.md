@@ -6,7 +6,7 @@ End-to-end Data Science project on a Bike Buying dataset, implementing the compl
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 This project presents an end-to-end **Data Science and Exploratory Data Analysis (EDA) pipeline** applied to a real-world **Bike Buying dataset** sourced from an open-source platform. The primary objective is to analyze customer demographic and behavioral attributes to understand purchasing patterns and support **bike purchase prediction**.
 
 The project strictly follows the **complete Data Science Lifecycle**, with a strong emphasis on **data preprocessing, data quality handling, transformation, reduction, and exploratory analysis**.
