@@ -13,7 +13,7 @@ The project strictly follows the **complete Data Science Lifecycle**, with a str
 
 ---
 
-## 📊 Dataset Description
+## Dataset Description
 - **Source:** Open-source dataset (e.g., Kaggle / UCI Repository)  
 - **Type:** Structured, mixed data (Numerical + Categorical)  
 - **Purpose:**  
@@ -21,7 +21,7 @@ The project strictly follows the **complete Data Science Lifecycle**, with a str
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 - Apply all stages of the **Data Science Lifecycle**
 - Identify and resolve **real-world data quality issues**
 - Perform **descriptive, visual, and statistical EDA**
@@ -59,7 +59,7 @@ The project strictly follows the **complete Data Science Lifecycle**, with a str
 - Dropping duplicates
 - Keeping first or last occurrence where appropriate
 
-> 📌 *Each technique is followed by an interpretation and reasoning section.*
+>  *Each technique is followed by an interpretation and reasoning section.*
 
 ---
 
@@ -97,7 +97,7 @@ At least three of the following transformation techniques are applied:
 
 ---
 
-## 📈 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 ### 🔹 Descriptive EDA
 - **Measures of Central Tendency:** Mean, Median, Mode
@@ -123,7 +123,7 @@ At least three of the following transformation techniques are applied:
 
 ---
 
-## 📦 Project Deliverables
+## Project Deliverables
 - 📒 Google Colab / datset uncleaned / dataset cleaned
 - ✔️ Complete source code
 - ✔️ Visualizations
